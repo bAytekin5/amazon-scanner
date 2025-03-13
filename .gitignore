@@ -1,0 +1,10 @@
+
+node_modules/
+
+db/amazon.db
+
+*.log
+*.tmp
+.DS_Store
+
+.vscode/
