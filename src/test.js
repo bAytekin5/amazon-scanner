@@ -1,5 +1,5 @@
 const db = require('./db')
-const arr = require('./clear.json')
+const arr = require('../clear.json')
 // console.log(arr);
 
 const ads = async ()=>{
